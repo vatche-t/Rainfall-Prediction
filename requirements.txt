@@ -1,0 +1,12 @@
+pydot
+tensorflow
+matplotlib
+seaborn
+numpy
+pandas
+eli5
+scikit-learn
+lightgbm
+catboost
+xgboost
+itertools
