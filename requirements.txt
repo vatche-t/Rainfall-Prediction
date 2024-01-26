@@ -9,4 +9,3 @@ scikit-learn
 lightgbm
 catboost
 xgboost
-itertools
